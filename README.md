@@ -1,4 +1,4 @@
-# 30daysofpython
+
 # 30 Days of Python 🐍
 
 Bienvenue dans mon dépôt GitHub pour la formation **30 Days of Python** !
@@ -86,9 +86,13 @@ Création de petits projets Python
 Utilisation de Git pour le versionnage
 
 👨‍💻 Auteur
+
 Nom : KOUYOE Yao Marius 
+
 📫 Contact :
+
  mail:mariuskymkouyoe.tg@gmail.com
+ 
  profil GitHub:github.com/kym-art
 
 🌍 Objectif : devenir développeur Python compétent et prêt pour des projets professionnels ou personnels.
