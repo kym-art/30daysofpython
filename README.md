@@ -50,7 +50,7 @@ bien que je ne debute pas en python , je crois fermement que **revenir aux bases
 
 ## 🚧 Organisation du dépôt
 
-```bash
+
 .
 ├── Day01/
 │   ├── notes.md
@@ -97,4 +97,5 @@ Nom : KOUYOE Yao Marius
 Merci de visiter ce dépôt.
 N'hésitez pas à suivre, cloner, forker ou commenter — tout retour est le bienvenu !
 
-💬 Ce dépôt est aussi une façon de me responsabiliser à coder chaque jour et à m'améliorer continuellement. N'hésite pas à me rejoindre dans le challenge si tu veux apprendre Python toi aussi !
+💬 Ce dépôt est aussi une façon de me responsabiliser à coder chaque jour et à m'améliorer continuellement.
+N'hésite pas à me rejoindre dans le challenge si tu veux apprendre Python toi aussi !
